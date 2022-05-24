@@ -1,6 +1,6 @@
-# Basic Restful Service with Spring Web, JPA & H2 (Full)
+# React.js and Spring Data REST (Full)
 
-Exercice 10 - https://spring.io/guides/tutorials/rest/
+Exercice 11 - https://spring.io/guides/tutorials/react-and-spring-data-rest/
 
 ## Commands
 
